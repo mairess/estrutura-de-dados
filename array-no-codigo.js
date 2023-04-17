@@ -17,7 +17,7 @@ pilotos.push('Alonso')
 console.log(pilotos)
 
 // encontra um elemento
-const senna =  pilotos.find(piloto => piloto === 'senna')
+const senna =  pilotos.find(piloto => piloto === 'Senna')
 console.log("senna")
 
 // deletar elemento
